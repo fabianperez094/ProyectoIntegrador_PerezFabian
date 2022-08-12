@@ -1,0 +1,16 @@
+.row{
+padding: 20px;
+background-color: #a1b5cb;
+}
+.container{
+width:auto;
+}
+.descripcion, .imagen {
+display: inline-block;
+text-align: justify;
+}
+.img-proyecto{
+
+    box-shadow: 10px 10px 5px #000000 ;
+    box-shadow:ejeX ejey difumasion color ;
+}
