@@ -14,6 +14,7 @@ import { HysComponent } from './components/hys/hys.component';
 import { ProyectoComponent } from './components/proyecto/proyecto.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { AcercaDeComponent } from './components/acerca-de/acerca-de.component';
+
 @NgModule({
   declarations: [
     AppComponent,
